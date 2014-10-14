@@ -264,3 +264,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+p {
+  font-size: 24px;
+}
+
