@@ -93,8 +93,8 @@ textarea {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 30px;
-  line-height: 43px;
+  font-size: 20px;
+  line-height: 30px;
 
 }
 h1 {
@@ -119,11 +119,19 @@ h6 {
   width: 898px;
   padding-left: 31px;
   padding-right: 31px;
+  text-align: justify;
 
 }
 #article_heading {
   height: 86px;
   line-height: 86px;
+}
+#article_photo img {
+  height: 338px;
+  width: 338px;
+  float: right;
+  padding: 9px;
+  margin: 10px;
 }
 p.first {
 
