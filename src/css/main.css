@@ -120,7 +120,28 @@ h6 {
   padding-left: 31px;
   padding-right: 31px;
   text-align: justify;
+  float: left;
+}
+#menu {
+   background-image: url('../img/menu_bk.gif');
 
+}
+#menu a {
+  color: white;
+}
+#menu ul {
+  margin-left: 355px;
+  margin-top: 0px;
+
+}
+
+#sidebar {
+  float: left;
+  
+}
+
+#footer {
+  clear: both;
 }
 #article_heading {
   height: 86px;
@@ -149,7 +170,7 @@ p.first {
   height: 56px;
   line-height: 56px;
 }
-#menu ul, li {
+#menu li {
    margin: 0px;
 
 }
